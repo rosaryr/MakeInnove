@@ -33,9 +33,9 @@
         </license>
     </licenses>
     <modules>
-        <module>makeInnove-ejb</module>
-        <module>makeInnove-web</module>
-        <module>makeInnove-ear</module>
+        <module>../makeInnove-ejb</module>
+        <module>../makeInnove-web</module>
+        <module>../makeInnove-ear</module>
     </modules>
 
     <properties>
